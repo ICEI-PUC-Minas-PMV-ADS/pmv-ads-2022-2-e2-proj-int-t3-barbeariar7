@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# Barbearia R7
 
-`CURSO`
+`Analise e Desenvolvimento de sistemas`
 
-`DISCIPLINA`
+`Desenvolvimento de uma Aplicação Interativa`
 
-`SEMESTRE`
+`2 semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolver uma aplicação interativa que automatize e facilite nas tarefas do estabelecimento.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Adriano Carlos da Silva
+* Hiago Filippe de Assis Soares Leão
+* Matheus Pereira Dionisio
+* Nelita Moreira Martins
 
 ## Orientador
 
-* Nome completo do professor 1
+* José Wilson da Costa
 
 ## Instruções de utilização
 
