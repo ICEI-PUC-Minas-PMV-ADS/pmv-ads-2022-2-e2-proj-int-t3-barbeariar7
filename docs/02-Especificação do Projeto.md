@@ -88,14 +88,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend e Backend                      |
 |03| A equipe não pode subcontratar o desenvolvimento do trabalho.                                            |
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+![Diagrama  (2)](https://user-images.githubusercontent.com/103226164/189015034-d1c74286-b6aa-464c-8ca3-a26d4b4be4b7.png)
 
 
