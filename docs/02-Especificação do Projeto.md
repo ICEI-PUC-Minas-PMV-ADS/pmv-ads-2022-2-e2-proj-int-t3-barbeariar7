@@ -57,14 +57,16 @@ O escopo funcional do projeto é definido por meio dos requisitos funcionais que
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve apresentar o telefone de contato da barbearia.                                                    | ALTA | 
-|RF-002| A aplicação deve abrir um menu durante o agendamento para selecionar o (os) serviço (os) disponíveis.              | MÉDIA |
-|RF-003| A aplicação deve permitir que o cliente especifique suas observações a respeito o serviço selecionado.             | ALTA | 
+|RF-001| A aplicação deve apresentar o telefone de contato da barbearia.                                                    | MÉDIA | 
+|RF-002| A aplicação deve abrir um menu durante o agendamento para selecionar o (os) serviço (os) disponíveis.              | ALTA  |
+|RF-003| A aplicação deve permitir que o cliente especifique suas observações a respeito o serviço selecionado.             | MÉDIA | 
 |RF-004| A aplicação deve permitir que o cliente faça mais de um agendamento.                                               | MÉDIA |
-|RF-005| A aplicação deve apresentar, a todos os momentos, o endereço da barbearia.                                         | ALTA | 
-|RF-006| A aplicação deve ter uma funcionalidade de login para seus usuários (Donos de barbearias, barbeiros e clientes)    | MÉDIA |
-|RF-007| Terá de ser uma aplicação acessível para todos os públicos.                                                        | ALTA | 
+|RF-005| A aplicação deve apresentar, a todos os momentos, o endereço da barbearia.                                         | ALTA  | 
+|RF-006| A aplicação deve ter uma funcionalidade de login para seus usuários (Donos de barbearias, barbeiros e clientes)    | ALTA  |
+|RF-007| Terá de ser uma aplicação acessível para todos os públicos.                                                        | ALTA  | 
 |RF-008| A administração da aplicação ficará por responsabilidade do dono da Barbearia.                                     | MÉDIA |
+|RF-009| A aplicação deve permitir que o cliente faça o cancelamento antecipado ou alteração do serviço agendado.           | ALTA  | 
+|RF-010| A aplicação deve permitir a avaliação do serviço.                                                                  | MÉDIA | 
 
 ### Requisitos não Funcionais
 
