@@ -14,6 +14,7 @@ Desenvolver uma aplicação interativa que automatize e facilite nas tarefas do 
 * Hiago Filippe de Assis Soares Leão
 * Matheus Pereira Dionisio
 * Nelita Moreira Martins
+* Luisa Cristina Amorim Queiroz
 
 ## Orientador
 
