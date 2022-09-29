@@ -32,46 +32,30 @@ Por exemplo:
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site  https://xxxxxxxxxxx.com.br <br> - Realizar login <br> - Acessar a sessão de agendamento <br> - Abrir menu de serviços disponiveis <br> - Selecionar mais de um serviço |
 |Critério de Êxito | - Verificar se foi efetuado o agendamento de mais de um serviço. |
 |  	|  	|
-| **Caso de Teste** 	| **CT-05 – Efetuar login**	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site  https://xxxxxxxxxxx.com.br - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> Clicar em "Login" |
-|Critério de Êxito | - . |
+| **Caso de Teste** 	| **CT-05 – Endereço da barbearia**	|
+|Requisito Associado | **RF-05**	- A aplicação deve apresentar, a todos os momentos, o endereço da barbearia. |
+| Objetivo do Teste 	| Verificar se é exibido o endereço na página principal. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site  https://xxxxxxxxxxx.com.br - <br> - Acessa tela principal. |
+|Critério de Êxito | - Apresentar o endereço da barbearia na tela principal . |
 |  	|  	|
 | **Caso de Teste** 	| **CT-06 – Efetuar login**	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
+|Requisito Associado | **RF-06**	- A aplicação deve ter uma funcionalidade de login para seus usuários (Donos de barbearias, barbeiros e clientes). |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://xxxxxxxxxxx.com.br<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
+|Critério de Êxito | - Usuarios conseguirem fazer login . |
+|  	|  	|
+| **Caso de Teste** 	| **CT-07 – Acessibilidade**	|
+|Requisito Associado | **RF-07**	- Terá de ser uma aplicação acessível para todos os públicos. |
+| Objetivo do Teste 	| Verificar se o sistema é responsivo com smartphone e desktop. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://xxxxxxxxxxx.com.br <br> - Acessar a página web.
 |Critério de Êxito | - . |
 |  	|  	|
-| **Caso de Teste** 	| **CT-07 – Efetuar login**	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - . |
+| **Caso de Teste** 	| **CT-08 – Cancelamento do serviço agendado**	|
+|Requisito Associado | **RF-08**	- A aplicação deve permitir que o cliente faça o cancelamento antecipado ou alteração do serviço agendado. |
+| Objetivo do Teste 	|Verificar se há como fazer o cancelamento do serviço agendado. |
+| Passos 	| - - Acessar o navegador <br> - Informar o endereço do site  https://xxxxxxxxxxx.com.br <br> - Realizar login <br> - Acessar a sessão de agendamento <br> - Efetuar cancelamento |
+|Critério de Êxito | - Conseguir cancelar o agendamento . |
 |  	|  	|
-| **Caso de Teste** 	| **CT-08 – Efetuar login**	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - . |
-|  	|  	|
-| **Caso de Teste** 	| **CT-09 – Efetuar login**	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - . |
-|  	|  	|
-| **Caso de Teste** 	| **CT-10 – Efetuar login**	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - . |
+
  
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+
