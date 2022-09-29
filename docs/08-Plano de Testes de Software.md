@@ -20,53 +20,53 @@ Por exemplo:
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site  https://xxxxxxxxxxx.com.br <br> - Ter feito login <br> - Acessar o agendamento <br> - Abrir menu de serviços <br>  |
 |Critério de Êxito | - Conseguir abrir o menu de serviços. |
 |  	|  	|
-| **Caso de Teste** 	| **CT-03 – Efetuar login**	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+| **Caso de Teste** 	| **CT-03 – Avaliação do Serviço**	|
+|Requisito Associado | **RF-03**	- A aplicação deve permitir que o cliente avalie o serviço prestado. |
+| Objetivo do Teste 	| Avaliar o serviço prestado. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site  https://xxxxxxxxxxx.com.br  <br> - Realizar o login <br> - Após ter finalizado o serviço <br> - Avaliar o serviço do barbeiro|
+|Critério de Êxito | - Verificar após isso se foi salva a avaliação. |
 |  	|  	|
-| **Caso de Teste** 	| **CT-04 – Efetuar login**	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+| **Caso de Teste** 	| **CT-04 – Selecionar mais de um serviço**	|
+|Requisito Associado | **RF-04**	- A aplicação deve permitir que o solicite mais de um serviço. |
+| Objetivo do Teste 	| Verificar se foi efetuado mais de um serviço. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site  https://xxxxxxxxxxx.com.br <br> - Realizar login <br> - Acessar a sessão de agendamento <br> - Abrir menu de serviços disponiveis <br> - Selecionar mais de um serviço |
+|Critério de Êxito | - Verificar se foi efetuado o agendamento de mais de um serviço. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-05 – Efetuar login**	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site  https://xxxxxxxxxxx.com.br - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> Clicar em "Login" |
+|Critério de Êxito | - . |
 |  	|  	|
 | **Caso de Teste** 	| **CT-06 – Efetuar login**	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+|Critério de Êxito | - . |
 |  	|  	|
 | **Caso de Teste** 	| **CT-07 – Efetuar login**	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+|Critério de Êxito | - . |
 |  	|  	|
 | **Caso de Teste** 	| **CT-08 – Efetuar login**	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+|Critério de Êxito | - . |
 |  	|  	|
 | **Caso de Teste** 	| **CT-09 – Efetuar login**	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+|Critério de Êxito | - . |
 |  	|  	|
 | **Caso de Teste** 	| **CT-10 – Efetuar login**	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+|Critério de Êxito | - . |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
