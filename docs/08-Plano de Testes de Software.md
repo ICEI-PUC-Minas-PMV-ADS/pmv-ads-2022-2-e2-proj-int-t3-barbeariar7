@@ -48,7 +48,7 @@ Por exemplo:
 |Requisito Associado | **RF-07**	- Terá de ser uma aplicação acessível para todos os públicos. |
 | Objetivo do Teste 	| Verificar se o sistema é responsivo com smartphone e desktop. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://xxxxxxxxxxx.com.br <br> - Acessar a página web.
-|Critério de Êxito | - . |
+|Critério de Êxito | - Aplicação sendo executada corretamente nos dispositivos . |
 |  	|  	|
 | **Caso de Teste** 	| **CT-08 – Cancelamento do serviço agendado**	|
 |Requisito Associado | **RF-08**	- A aplicação deve permitir que o cliente faça o cancelamento antecipado ou alteração do serviço agendado. |
