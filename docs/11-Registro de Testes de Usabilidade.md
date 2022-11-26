@@ -14,7 +14,7 @@ Os resultados obtidos nos testes foram registrados em tabelas, conforme abaixo:
 | Usuário 4	| 26 anos| CT-01	| 00:42:08 | 8 | 0  |  -  | Achou intuitivo |
 | Usuário 5	| 69 anos| CT-01 | 02:09:13 | 11 | 1 | Sim, teve dificuldade para preencher a data de nascimento. | --- |
 
-**CT 01 -  Cadastro de farmácia**
+**CT 01 - Login de usuário**
 | **Usuário** 	| **Idade** | **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- 	| --- | ---  | --- | --- | --- |
 | Usuário 1	| 17 anos	| CT-01 |00:32:04 | 7 | 0 | - | --- |
@@ -23,7 +23,7 @@ Os resultados obtidos nos testes foram registrados em tabelas, conforme abaixo:
 | Usuário 4	| 26 anos| CT-01	| 00:28:09  | 7 | 0  |  -  | --- |
 | Usuário 5	| 69 anos| CT-01 | 01:03:17 | 9 | 0 |  - | --- |
 
-**CT 02 - Logar no aplicativo**
+**CT 02 -Sistema de Agendamento do serviço**
 | **Usuário** 	| **Idade** | **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- 	| --- | ---  | --- | --- | --- |
 | Usuário 1	| 17 anos	| ---| 00:00:00 | - | - | - | --- |
@@ -32,7 +32,7 @@ Os resultados obtidos nos testes foram registrados em tabelas, conforme abaixo:
 | Usuário 4	| 26 anos| ---	| 00:00:00  | - | -  |  -  | --- |
 | Usuário 5	| 69 anos| --- | 00:00:00 | -  | - |  - | --- |
 
-**CT 03 - Solicitação de medicamentos**
+**CT 03 - Avaliação do serviço**
 | **Usuário** 	| **Idade** | **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- 	| --- | ---  | --- | --- | --- |
 | Usuário 1	| - anos	| ---| 00:00:00 | - | - | - | --- |
@@ -41,7 +41,7 @@ Os resultados obtidos nos testes foram registrados em tabelas, conforme abaixo:
 | Usuário 4	| - anos| ---	| 00:00:00  | - | -  |  -  | --- |
 | Usuário 5	| -	anos| --- | 00:00:00 | -  | - |  - | --- |
 
-**CT 04 - Atualização do status do pedido**
+**CT 04 - Cancelamento do Serviços**
 | **Usuário** 	| **Idade** | **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- 	| --- | ---  | --- | --- | --- |
 | Usuário 1	| - anos	| ---| 00:00:00 | - | - | - | --- |
