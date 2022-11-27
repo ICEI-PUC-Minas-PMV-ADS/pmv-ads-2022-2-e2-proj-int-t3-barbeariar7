@@ -26,26 +26,26 @@ Na análise dos dados coletados durante o teste foram registrados em tabelas con
 **CT 02 -Sistema de Agendamento do serviço**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 1	| ---| 00:00:00 | - | - | - | --- |
-| Usuário 2 | ---| 00:00:00  | -  | - | -  |--- |
-| Usuário 3	| ---	| 00:00:00  | -  | - |  - | --- |
-| Usuário 4	| ---	| 00:00:00  | - | -  |  -  | --- |
-| Usuário 5	| --- | 00:00:00 | -  | - |  - | --- |
+| Usuário 1	| CT-02| 00:00:00 | - | - | - | --- |
+| Usuário 2 | CT-02| 00:00:00  | -  | - | -  |--- |
+| Usuário 3	| CT-02	| 00:00:00  | -  | - |  - | --- |
+| Usuário 4	| CT-02	| 00:00:00  | - | -  |  -  | --- |
+| Usuário 5	| CT-02 | 00:00:00 | -  | - |  - | --- |
 
 **CT 03 - Avaliação do serviço**
 | **Usuário**  | **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 1	| ---| 00:00:00 | - | - | - | --- |
-| Usuário 2 | ---| 00:00:00  | -  | - | -  |--- |
-| Usuário 3	| ---	| 00:00:00  | -  | - |  - | --- |
-| Usuário 4	| ---	| 00:00:00  | - | -  |  -  | --- |
-| Usuário 5	| --- | 00:00:00 | -  | - |  - | --- |
+| Usuário 1	| CT-03| 00:00:00 | - | - | - | --- |
+| Usuário 2 | CT-03| 00:00:00  | -  | - | -  |--- |
+| Usuário 3	| CT-03	| 00:00:00  | -  | - |  - | --- |
+| Usuário 4	| CT-03	| 00:00:00  | - | -  |  -  | --- |
+| Usuário 5	| CT-03 | 00:00:00 | -  | - |  - | --- |
 
 **CT 04 - Cancelamento do Serviços**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 1	| --- | 00:00:00 | - | - | - | --- |
-| Usuário 2 | --- | 00:00:00  | -  | - | -  |--- |
-| Usuário 3	| ---	| 00:00:00  | -  | - |  - | --- |
-| Usuário 4	| ---	| 00:00:00  | - | -  |  -  | --- |
-| Usuário 5	| --- | 00:00:00 | -  | - |  - | --- |
+| Usuário 1	| CT-04 | 00:00:00 | - | - | - | --- |
+| Usuário 2 | CT-04 | 00:00:00  | -  | - | -  |--- |
+| Usuário 3	| CT-04	| 00:00:00  | -  | - |  - | --- |
+| Usuário 4	| CT-04	| 00:00:00  | - | -  |  -  | --- |
+| Usuário 5	| CT-04 | 00:00:00 | -  | - |  - | --- |
