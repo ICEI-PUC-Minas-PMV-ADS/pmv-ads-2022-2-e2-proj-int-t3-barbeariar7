@@ -26,11 +26,11 @@ Na análise dos dados coletados durante o teste foram registrados em tabelas con
 **CT 02 -Sistema de Agendamento do serviço**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 1	| CT-02| 45:08 | - | - | - |Agendamento foi rápido.  |
-| Usuário 2 | CT-02| 02:20  |03  |01 | -  |Botão de agendamento lento. |
-| Usuário 3	| CT-02	| 01:60  | -  | - |  - |Deveria ter mais opções de serviços para agendar.  |
-| Usuário 4	| CT-02	| 00:00  | - | -  |  -  | --- |
-| Usuário 5	| CT-02 | 00:00 | -  | - |  - | --- |
+| Usuário 1	| CT-02| 02:08 | - | - | - |Agendamento foi rápido.  |
+| Usuário 2 | CT-02| 02:40  |03  |01 | -  |Botão de agendamento lento. |
+| Usuário 3	| CT-02	| 01:99  | -  | - |  - |Deveria ter mais opções de serviços para agendar.  |
+| Usuário 4	| CT-02	|02:50  | - | -  |  -  | --- |
+| Usuário 5	| CT-02 | 02:30 | -  | - |  - | --- |
 
 **CT 03 - Avaliação do serviço**
 | **Usuário**  | **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
