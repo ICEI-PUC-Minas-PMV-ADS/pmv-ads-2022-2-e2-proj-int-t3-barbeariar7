@@ -9,16 +9,16 @@ Na análise dos dados coletados durante o teste foram registrados em tabelas con
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
 | Usuário 1	| CT-01| 01:05:99 | 8 | 0 | - | --- |
-| Usuário 2 | CT-01 | 01:15:17  | 9 | 0 | -  |--- |
+| Usuário 2 | CT-01 | 01:15:17  | 9 | 0 | -  |Tarefa realizada com sucesso.  |
 | Usuário 3	| CT-01	| 01:28:07  | 9  | 0 |  - | --- |
-| Usuário 4	| CT-01	| 00:42:08 | 8 | 0  |  -  | Achou intuitivo |
-| Usuário 5	| CT-01 | 02:09:13 | 11 | 1 | Sim, teve dificuldade para preencher a data de nascimento. | --- |
+| Usuário 4	| CT-01	| 00:42:08 | 8 | 0  |  -  | Cadastro rápido de ser feito. |
+| Usuário 5	| CT-01 | 02:09:13 | 11 | 1 | - | |
 
 **CT 01 - Login de usuário**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
 | Usuário 1	| CT-01 |00:32:04 | 7 | 0 | - | --- |
-| Usuário 2 | CT-01 | 00:36:79  | 7  | 0 | -  |--- |
+| Usuário 2 | CT-01 | 00:36:79  | 7  | 0 | -  |Não teve ponto negativo.  |
 | Usuário 3	| CT-01	| 00:37:24  | 8 | 0 |  - | --- |
 | Usuário 4	| CT-01	| 00:28:09  | 7 | 0  |  -  | --- |
 | Usuário 5	| CT-01 | 01:03:17 | 9 | 0 |  - | --- |
@@ -26,9 +26,9 @@ Na análise dos dados coletados durante o teste foram registrados em tabelas con
 **CT 02 -Sistema de Agendamento do serviço**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
 | --- 	| --- 	| --- | ---  | --- | --- | --- |
-| Usuário 1	| CT-02| 00:00:00 | - | - | - | --- |
-| Usuário 2 | CT-02| 00:00:00  | -  | - | -  |--- |
-| Usuário 3	| CT-02	| 00:00:00  | -  | - |  - | --- |
+| Usuário 1	| CT-02| 00:00:00 | - | - | - |Agendamento foi rápido.  |
+| Usuário 2 | CT-02| 00:00:00  | -  | - | -  |Botão de agendamento lento. |
+| Usuário 3	| CT-02	| 00:00:00  | -  | - |  - |Deveria ter mais opções de serviços para agendar.  |
 | Usuário 4	| CT-02	| 00:00:00  | - | -  |  -  | --- |
 | Usuário 5	| CT-02 | 00:00:00 | -  | - |  - | --- |
 
