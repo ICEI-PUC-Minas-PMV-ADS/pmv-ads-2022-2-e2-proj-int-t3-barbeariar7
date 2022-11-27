@@ -12,7 +12,7 @@ Na análise dos dados coletados durante o teste foram registrados em tabelas con
 | Usuário 2 | CT-01 | 15:17  | 9 | 0 | -  |Tarefa realizada com sucesso.  |
 | Usuário 3	| CT-01	| 28:07  | 9  | 0 |  - | --- |
 | Usuário 4	| CT-01	| 42:08 | 8 | 0  |  -  | Cadastro rápido de ser feito. |
-| Usuário 5	| CT-01 | 09:13 | 11 | 1 | - |--- |
+| Usuário 5	| CT-01 | 09:13 | 11 |  | - |--- |
 
 **CT 01 - Login de usuário**
 | **Usuário** 	| **Artefato** 	| **Tempo** | **Clicks/Ações** | **Qtd. Erros** | **Se recuperou do erro** | **Comentários e observações** |
