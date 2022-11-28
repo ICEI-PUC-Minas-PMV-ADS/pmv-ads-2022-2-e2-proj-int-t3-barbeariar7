@@ -1,12 +1,15 @@
 # Template Padrão da Aplicação
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>
+**Template padrão**
 
-Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+![template padrão](https://user-images.githubusercontent.com/103226164/204171027-f3805ffc-62a4-49ca-86e7-15c145d8e6be.png)
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+**Tela inicial**
+
+
+
+![image](https://user-images.githubusercontent.com/103226164/204172223-18a66172-7bf0-4938-9cd2-2eec3991959e.png)
+
+![image](https://user-images.githubusercontent.com/103226164/204172286-f4dcb968-8310-4f4b-abec-98ba5be84a5f.png)
+
+
