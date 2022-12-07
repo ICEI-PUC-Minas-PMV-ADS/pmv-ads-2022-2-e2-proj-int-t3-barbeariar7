@@ -8,9 +8,15 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-|RF-002| Emitir um relatório de tarefas no mês   | relatorio.shtml |
-
+|RF-001| A aplicação deve apresentar o telefone de contato da barbearia. | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
+|RF-002| A aplicação deve abrir um menu durante o agendamento para selecionar os serviços disponíveis.   | relatorio.shtml |
+|RF-003| A aplicação deve permitir a avaliação do serviço.|
+|RF-004| A aplicação deve permitir que o cliente faça mais de um agendamento.|
+|RF-005| A aplicação deve apresentar o endereço da barbearia.|
+|RF-006| A aplicação deve ter uma funcionalidade de login para seus usuários.|
+|RF-007| Terá de ser uma aplicação acessível para todos os públicos.|
+|RF-008| A administração da aplicação ficará sob responsabilidade do dono da barbearia.|
+|RF-009| A aplicação deve permitir que o cliente faça o cancelamento antecipado ou alteração do serviço agendado.| 
 # Instruções de acesso
 
 Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
