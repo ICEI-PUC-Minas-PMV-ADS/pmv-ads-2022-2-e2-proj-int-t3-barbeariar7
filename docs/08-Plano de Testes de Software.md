@@ -27,7 +27,7 @@ Por exemplo:
 |Critério de Êxito | - Verificar após isso se foi salva a avaliação. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-04 – Selecionar mais de um serviço**	|
-|Requisito Associado | **RF-04**	- A aplicação deve permitir que o solicite mais de um serviço. |
+|Requisito Associado | **RF-04**	- A aplicação deve permitir que o cliente solicite mais de um serviço. |
 | Objetivo do Teste 	| Verificar se foi efetuado mais de um serviço. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site  https://xxxxxxxxxxx.com.br <br> - Realizar login <br> - Acessar a sessão de agendamento <br> - Abrir menu de serviços disponiveis <br> - Selecionar mais de um serviço |
 |Critério de Êxito | - Verificar se foi efetuado o agendamento de mais de um serviço. |
