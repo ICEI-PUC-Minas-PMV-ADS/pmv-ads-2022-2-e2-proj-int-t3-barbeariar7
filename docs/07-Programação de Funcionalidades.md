@@ -8,8 +8,8 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| A aplicação deve apresentar o telefone de contato da barbearia. | tarefas.shtml / tarefas.cs / controllertarefas.cs | 
-|RF-002| A aplicação deve abrir um menu durante o agendamento para selecionar os serviços disponíveis.   | relatorio.shtml |
+|RF-001| A aplicação deve apresentar o telefone de contato da barbearia. |   | 
+|RF-002| A aplicação deve abrir um menu durante o agendamento para selecionar os serviços disponíveis.   | |
 |RF-003| A aplicação deve permitir a avaliação do serviço.|
 |RF-004| A aplicação deve permitir que o cliente faça mais de um agendamento.|
 |RF-005| A aplicação deve apresentar o endereço da barbearia.|
