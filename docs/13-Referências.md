@@ -9,7 +9,8 @@ MARCO PAULO SOARES GOMES, Título: Eixo 2 - Microfundamento: Manipulação de Da
 
 KLEBER JACQUES FERREIRA DE SOUZA, Título: Eixo 2 - Microfundamento: Desenvolvimento Web Back-End, Subtítulos:( Arquitetura de Software,Estilos Arquiteturais, Tipos de Aplicações Web, Tema 2: Linguagens e Frameworks Web Backend, Linguagens de programação Back-end, Frameworks Web, Framework ASP.NET Core MVC, Ambiente de desenvolvimento, Configuração de modelos e banco de dados, Desenvolvimento de novas funcionalidades, Tema 2: Segurança da Aplicação Web, Controle de Usuários, ASP.NET Core Identity, Autenticação e Autorização)., Organização: PUC MINAS EAD, Disponível em: https://pucminas.instructure.com/courses/68749, .
 
-NIKOLAJ MERTZ: Como e por que os ícones melhoram seu web design. getfeedback, 7 de agosto de 2012. Disponível em: https://www.getfeedback.com/resources/ux/how-and-why-icons-improve-you-web-design/. Acesso em: 10/2022.
+CONTROLE DE ESTOQUE EM C# #1 - apresentação | Como Programar Melhor.
+
 > **Links Úteis**:
 > - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
 > - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
